@@ -1,2 +1,2 @@
-Please visit:
-http://code.google.com/p/json-simple/
+در تصویر زیر میزان پوشش کد در ابتدا مشخص شده است.
+![](pictures/coverage1.jpg)
