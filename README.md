@@ -19,3 +19,19 @@
 تابع testMapToString از کلاس JSONObject تابع toJSONString با ورودی map را صدا می‌زند. بنابراین پوشش آن افزایش می‌یابد.
 
 ![json object](pictures/jsonObject.jpg)
+
+تابع testIntToString از کلاس JSONValue تابع toJSONString را صدا می‌زند. بنابراین پوشش این کلاس افزایش می‌یابد.
+
+![json value](pictures/jsonValue.jpg)
+
+تابع testParseBrace از کلاس JSONParser قسمت‌های زیر که مربوط به پارس براکت هستند را پوشش می‌دهد. در تصویر زیر ای تکه کد مشخص است.
+![json parser](pictures/Yytoken.jpg)
+
+تابع testParseException از کلاس ParseException تابع ParseException را صدا می‌زند.
+
+![exception](pictures/exception.jpg)
+
+تابع testYytoken از کلاس Yytoken تابع toString را صدا می‌زند.
+
+![Yytoken](pictures/parser.jpg)
+
