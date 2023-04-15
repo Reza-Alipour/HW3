@@ -1,2 +1,3 @@
 در تصویر زیر میزان پوشش کد در ابتدا مشخص شده است.
-![](https://github.com/Reza-Alipour/HW3/blob/master/pictures/coverage1.jpg)
+
+![](master/pictures/coverage1.jpg)
