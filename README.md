@@ -20,6 +20,10 @@
 
 ![json object](pictures/jsonObject.jpg)
 
+با این تست، توابع zzUnpackRowMap از کلاس Yylex نیز پوشش داده می‌شوند.
+
+![Yylex](pictures/Yylex.jpg)
+
 تابع testIntToString از کلاس JSONValue تابع toJSONString را صدا می‌زند. بنابراین پوشش این کلاس افزایش می‌یابد.
 
 ![json value](pictures/jsonValue.jpg)
